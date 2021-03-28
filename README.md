@@ -7,7 +7,8 @@ not work as intended?
 But then by reading so much about this, I grasped
 the idea already.
 
-Without code testing, the tendency is to test
+Without the automated code testing,
+the tendency is to test
 your code by running the entire program and
 manually testing it. So, you are still testing
 it without knowing it.
