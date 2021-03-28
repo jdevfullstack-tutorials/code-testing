@@ -32,7 +32,7 @@ if you don't have any idea about
 code testing, well you are doing it
 without knowing it. The tendency is to
 run the whole program and manually 
-test whether all the parts of the 
+test whether each part of the 
 code is working as intended.
 
 Now, this is only practical if your
