@@ -9,8 +9,8 @@ the idea already.
 
 Without code testing, the tendency is to test
 your code by running the entire program and
-manually testing it. So, you are testing
-it still without knowing it.
+manually testing it. So, you are still testing
+it without knowing it.
 
 For example, for students doing programming 
 in Robotics, since their focus is just to know
@@ -76,6 +76,15 @@ an automated one, you save time and effort,
 since you don't need to run the entire
 program just to see whether your code
 is working as it is intended to be.
+
+## Unit Tests And Integration Tests
+Unit tests and integration tests are the most
+common tests that is being reffered to
+because these two tests should be done
+by the developer himself.
+
+Other test just like black box
+testing will be done by another person.
 
 ## Useful Links
 Here are the detailed tutorials for this code testing:
