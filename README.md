@@ -12,8 +12,8 @@ your code by running the entire program and
 manually testing it. So, you are testing
 it still without knowing it.
 
-For students doing programming in Robotics,
-since their focus is just to know
+For example, for students doing programming 
+in Robotics, since their focus is just to know
 whether their code is actually working,
 they will be manually running the code
 from time to time. If the code did not
