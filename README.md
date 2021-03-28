@@ -48,6 +48,34 @@ Our role is just to minimize and
 maintain the code.
 
 ## Debugging Vs Code Testing
+Others are really confused about these two
+things, are you testing while you are debugging?
+Or conversely, are you debugging while you are
+testing?
+
+Debugging was a popular practice before
+the term `code testing` was coined. And yes,
+developers back then manually test
+their code without knowing it. Sometimes,
+they would refer to debugging the same as
+testing.
+
+And of course, computer science field
+has been continously being developed, testing
+now is a very sophisticated one: there 
+are technologies just for testing alone.
+
+So testing now becomes the way to actually
+look for system errors, and debuggins is 
+the process of solving it. Hence, debugging
+is a manual task to be done by a talented
+debugger or the developer himself while
+testing, the act of finding errors can be
+automated by code also. By making testing
+an automated one, you save time and effort, 
+since you don't need to run the entire
+program just to see whether your code
+is working as it is intended to be.
 
 ## Useful Links
 Here are the detailed tutorials for this code testing:
