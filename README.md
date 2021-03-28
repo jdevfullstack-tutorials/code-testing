@@ -79,12 +79,14 @@ is working as it is intended to be.
 
 ## Unit Tests And Integration Tests
 Unit tests and integration tests are the most
-common tests that is being reffered to
-because these two tests should be done
-by the developer himself.
+common tests that are being reffered to
+mainly because these two tests should be done
+(most of the time) by 
+the developer himself.
 
 Other test just like black box
-testing will be done by another person.
+testing will be done by another person,
+usually a tester.
 
 ## Useful Links
 Here are the detailed tutorials for this code testing:
