@@ -27,6 +27,25 @@ But testing is already there, they are
 doing that manually.
 
 ## Why Code Testing
+As was mentioned from my example,
+if you don't have any idea about
+code testing, well you are doing it
+without knowing it. The tendency is to
+run the whole program and manually 
+test whether all the parts of the 
+code is working as intended.
+
+Now, this is only practical if your
+project is just too small. But
+software development nowadays 
+is already a very sophisticated one.
+So, testing that manually will surely
+be a headache. Plus, testing it
+manually is not that efficient.
+And even a well-tested code will not
+always work as intended to be.
+Our role is just to minimize and 
+maintain the code.
 
 ## Debugging Vs Code Testing
 
