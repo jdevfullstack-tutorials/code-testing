@@ -49,4 +49,10 @@ maintain the code.
 
 ## Debugging Vs Code Testing
 
+## Useful Links
+https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
+
+https://www.zeolearn.com/magazine/what-is-code-testing-and-why-is-it-important
+
+https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaUnitTesting.html
  
