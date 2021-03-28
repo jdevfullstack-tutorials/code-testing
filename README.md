@@ -1,5 +1,6 @@
 # What Is Code Testing
-I was too intimated by the concept of code testing. Why
+I was too much intimated by the concept 
+of code testing. Why
 will you test your code in the first place? Do
 you not trust your own code? Will it
 not work as intended?
