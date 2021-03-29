@@ -61,7 +61,7 @@ developers back then manually test
 their code without knowing it. And they
 were referring testing as part of
 debugging, without of course the knowledge
-of it. But there came a time, they are
+of it. But there came a time, they were
 very distinct from the other.
 
 And of course, computer science field
