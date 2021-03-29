@@ -60,9 +60,10 @@ the term `code testing` was coined. And yes,
 developers back then manually test
 their code without knowing it. And they
 were referring testing as part of
-debugging, without of course the knowledge
-of it. But there came a time, they were
-very distinct from the other.
+debugging, without, of course, the knowledge
+of it. But there came a time, when 
+the term was coined, software testing
+was already a separate process.
 
 And of course, computer science field
 has been continously being developed, testing
