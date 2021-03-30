@@ -70,7 +70,7 @@ now is a very sophisticated one: there
 are technologies just for testing alone.
 
 So testing now becomes the way to actually
-look for system errors, and debuggins is 
+look for system errors, and debugging is 
 the process of solving it. Hence, debugging
 is a manual task to be done by a talented
 debugger or the developer himself while
