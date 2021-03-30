@@ -89,6 +89,30 @@ mainly because these two tests should be done
 (most of the time) by 
 the developer himself.
 
+There are on-going debate as to
+what is considered a unit, say,
+it can be a component of a program
+and whether you test first before
+you code and whether every line
+of code should be tested. 
+Of course, development is up 
+to the programmer or the company
+on what they believe is the 
+best for them. 
+
+Integration tests, on the other
+hand, are test when you are 
+combining several components,
+will they still work as intended?
+Problems arises when there
+is too much dependence in
+a program, so mainly, even just
+testing is in your mind,
+it will affect the way you
+use global variables and 
+components that are dependent
+to one another.
+
 Other tests just like black box
 testing will be done by another person,
 usually a tester.
