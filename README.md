@@ -74,8 +74,9 @@ look for system errors, and debugging is
 the process of solving it. Hence, debugging
 is a manual task to be done by a talented
 debugger or the developer himself while
-testing, the act of finding errors can be
-automated by code also. By making testing
+testing, the act of finding errors, is
+mostly an automated one by code too. 
+By making testing
 an automated one, you save time and effort, 
 since you don't need to run the entire
 program just to see whether your code
