@@ -75,7 +75,7 @@ the process of solving it. Hence, debugging
 is a manual task to be done by a talented
 debugger or the developer himself while
 testing, the act of finding errors, is
-mostly an automated through coding. 
+mostly automated through coding. 
 By making testing
 an automated one, you save time and effort, 
 since you don't need to run the entire
