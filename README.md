@@ -104,7 +104,7 @@ Integration tests, on the other
 hand, are test when you are 
 combining several components,
 will they still work as intended?
-Problems arises when there
+Problems arise when there
 is too much dependence in
 a program, so mainly, even just
 testing is in your mind,
