@@ -1,5 +1,5 @@
 # What Is Code Testing
-I was too much intimated by the concept 
+I was too much intimidated by the concept 
 of code testing. Why
 will you test your code in the first place? Do
 you not trust your own code? Will it
@@ -59,13 +59,13 @@ Debugging was a popular practice before
 the term `code testing` was coined. And yes,
 developers back then manually test
 their code without knowing it. And they
-were referring testing as part of
+were referring to testing as part of
 debugging, without, of course, the knowledge
 of it. But there came a time, 
 it was recognized as a separate process.
 
-And of course, computer science field
-has been continously being developed, testing
+And of course, the computer science field
+has been continuously being developed, testing
 now is a very sophisticated one: there 
 are technologies just for testing alone.
 
@@ -84,12 +84,12 @@ is working as it is intended to be.
 
 ## Unit Tests And Integration Tests
 Unit tests and integration tests are the most
-common tests that are being reffered to
+common tests that are being referred to
 mainly because these two tests should be done
 (most of the time) by 
 the developer himself.
 
-Other test just like black box
+Other tests just like black box
 testing will be done by another person,
 usually a tester.
 
