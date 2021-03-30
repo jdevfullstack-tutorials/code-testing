@@ -1,5 +1,5 @@
 # What Is Code Testing
-I was too much intimidated by the concept 
+I was too intimidated by the concept 
 of code testing. Why
 will you test your code in the first place? Do
 you not trust your own code? Will it
