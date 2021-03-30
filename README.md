@@ -103,3 +103,5 @@ https://www.zeolearn.com/magazine/what-is-code-testing-and-why-is-it-important
 https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaUnitTesting.html
  
 https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/#:~:text=Black%20Box%20Testing%20is%20a,is%20known%20to%20the%20tester. 
+
+https://www.geeksforgeeks.org/differences-between-testing-and-debugging/#:~:text=Testing%20is%20the%20process%20to,the%20failure%20of%20implemented%20code.&text=Debugging%20is%20done%20by%20either%20programmer%20or%20developer.
