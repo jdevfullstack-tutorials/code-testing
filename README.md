@@ -18,8 +18,8 @@ For example, for students doing programming
 in Robotics, since their focus is just to know
 whether their code is actually working,
 they will be manually running the code
-from time to time. If the code is not
-working as intended, then they will trace
+from time to time. If the code did not
+work as intended, then they will trace
 the problem. This entire process
 is being repeated and is actually time
 consuming particularly when the code
