@@ -60,8 +60,7 @@ testing?
 Debugging was a popular practice before
 the term `code testing` was coined. And yes,
 developers back then manually test
-their code without being aware of
-doing it. And they
+their code. And they
 were referring to testing as part of
 debugging, without, of course, the knowledge
 of it. But there came a time, 
