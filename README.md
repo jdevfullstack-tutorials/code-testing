@@ -33,7 +33,7 @@ As was mentioned from my example,
 if you don't have any idea about
 code testing, well I say,
 you are doing it
-without being aware of doing it.
+without being aware of it.
 The tendency is to
 run the whole program and manually 
 test whether each part of the 
