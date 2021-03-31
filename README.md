@@ -12,7 +12,7 @@ Without the automated code testing,
 the tendency is to test
 your code by running the entire program and
 manually testing it. So, you are still testing
-it without knowing it.
+it without being aware of doing it.
 
 For example, for students doing programming 
 in Robotics, since their focus is just to know
@@ -31,8 +31,10 @@ doing that manually.
 ## Why Code Testing
 As was mentioned from my example,
 if you don't have any idea about
-code testing, well you are doing it
-without knowing it. The tendency is to
+code testing, well I say,
+you are doing it
+without being aware of doing it.
+The tendency is to
 run the whole program and manually 
 test whether each part of the 
 code is working as intended.
@@ -58,7 +60,8 @@ testing?
 Debugging was a popular practice before
 the term `code testing` was coined. And yes,
 developers back then manually test
-their code without knowing it. And they
+their code without being aware of
+doing it. And they
 were referring to testing as part of
 debugging, without, of course, the knowledge
 of it. But there came a time, 
