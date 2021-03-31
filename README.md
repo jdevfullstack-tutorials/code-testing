@@ -99,7 +99,7 @@ you code and whether every line
 of code should be tested. 
 Of course, development is up 
 to the programmer or the company
-on what they believe is the 
+in what they believe is the 
 best for them. 
 
 Integration tests, on the other
