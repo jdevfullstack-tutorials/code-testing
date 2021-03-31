@@ -26,7 +26,7 @@ consuming particularly when the code
 is getting longer and longer. And take
 note, it is not yet one big project.
 But testing is already there, they are 
-doing that manually.
+just doing that manually.
 
 ## Why Code Testing
 As was mentioned from my example,
