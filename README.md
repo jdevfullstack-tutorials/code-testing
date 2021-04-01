@@ -118,8 +118,8 @@ on one another.
 
 For me, personally, I write
 unit tests and integration 
-tests for my projects, particularly
-Java. I had developed the projects
+tests for my projects. 
+I had developed the projects
 first without knowing code
 testing in the first place. 
 So I wrote them backwards. 
