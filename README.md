@@ -139,7 +139,8 @@ be handled by arguments
 and should be returned
 properly (remember, rule
 no. 2)
-4. global variables
+4. global variables should
+be a last resort to be used and 
 should be closely monitored
 5. throwing exceptions
 should be closely monitored
