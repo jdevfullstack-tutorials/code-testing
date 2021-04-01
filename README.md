@@ -12,8 +12,7 @@ Without the automated code testing,
 the tendency is to test
 your code by running the entire program and
 manually testing it. So, you are still testing
-it without being aware that you are doing 
-the act of testing.
+it without being aware of it.
 
 For example, for students doing programming 
 in Robotics, since their focus is just to know
