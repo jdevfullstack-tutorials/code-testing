@@ -104,7 +104,7 @@ best for them.
 
 Integration tests, on the other
 hand, are test when you are 
-combining several components,
+combining several components:
 will they still work as intended?
 Problems arise when there
 is too much dependence in
