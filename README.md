@@ -118,6 +118,8 @@ on one another.
 For me, personally, I write
 unit tests and integration 
 tests for my projects. 
+
+In my experience, 
 I had developed the projects
 first without knowing code
 testing in the first place. 
