@@ -123,6 +123,11 @@ be handled by arguments
 and should be returned
 properly (remember, rule
 no. 2)
+4. global variables
+should be closely monitored
+5. throwing exceptions
+should be closely monitored
+through testing
 
 Then, the effect is immediate:
 when you look at the code, it's
