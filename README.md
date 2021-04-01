@@ -40,7 +40,7 @@ test whether each part of the
 code is working as intended.
 
 Now, this is only practical if your
-project is just too small. But
+project is just small one. But
 software development nowadays 
 is already a very sophisticated one.
 So, testing that manually will surely
