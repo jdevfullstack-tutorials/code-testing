@@ -66,8 +66,8 @@ debugging, without, of course, the knowledge
 of it. But there came a time, 
 it was recognized as a separate process.
 
-And of course, the computer science field
-has been continuously being developed, testing
+And of course, the software development
+has been continuously evolving, testing
 now is a very sophisticated one: there 
 are technologies just for testing alone.
 
