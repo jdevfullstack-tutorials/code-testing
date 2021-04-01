@@ -5,8 +5,8 @@ will you test your code in the first place? Do
 you not trust your own code? Will it
 not work as intended?
 
-But then by reading so much about this, I grasped
-the idea already.
+But then by reading so much about this, I fully
+got the hang of it. So here it goes:
 
 Without the automated code testing,
 the tendency is to test
