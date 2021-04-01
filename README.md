@@ -124,7 +124,8 @@ first without knowing code
 testing in the first place. 
 So I wrote them backwards. 
 With that, I refactored the
-code in such a way that:
+everything in such a way that:
+
 1. a function will just
 return one value
 2. components should not
