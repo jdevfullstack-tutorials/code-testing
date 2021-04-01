@@ -146,8 +146,8 @@ should be closely monitored
 should be closely monitored
 through testing
 
-Then, the effect is immediate:
-when you look at the code, it's
+Then, the effect was immediate:
+when I looked at the code, it's
 really neat. 
 
 So, from that point in time,
