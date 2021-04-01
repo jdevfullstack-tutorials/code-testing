@@ -162,6 +162,21 @@ if he/she finds it difficult,
 the source code is really not
 neat.
 
+But others will insist, they are
+good and excellent coders and very
+careful writing quality code. I
+say I had the same feeling but
+even if you just started thinking
+whether your code is testable,
+you will have a different approach.
+You will see things in a different
+perspective.
+It's just like you looking at your
+work just like other persons in charge
+of checking your code. Remember that
+others see errors better than
+ourselves.
+
 Other tests just like black box
 testing will be done by another person,
 usually a tester.
