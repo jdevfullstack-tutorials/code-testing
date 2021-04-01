@@ -146,9 +146,13 @@ through testing
 
 Then, the effect is immediate:
 when you look at the code, it's
-really neat. And take note,
-I just write unit tests for
-components or functions that
+really neat. 
+
+So, from that point in time,
+I realized I need to 
+include code testing in my
+workflow. But I just write unit 
+tests for components or functions that
 I feel I really need to focus on.
 
 This only means that a developer
