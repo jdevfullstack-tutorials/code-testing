@@ -149,7 +149,7 @@ I just write unit tests for
 components or functions that
 I feel I really need to focus on.
 
-This only means, a developer
+This only means that a developer
 should not find it difficult to
 write unit and integration tests,
 if he/she finds it difficult,
