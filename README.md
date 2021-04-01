@@ -102,6 +102,34 @@ to the programmer or the company
 in what they believe is the 
 best for them. 
 
+For me, personally, I write
+unit tests and integration 
+tests for my projects, particularly
+Java. I had developed the projects
+first without knowing code
+testing in the first place. 
+So I wrote them backwards. 
+With that, I refactored the
+code in such a way that:
+1. a function will just
+return one value
+2. components should not
+be dependent on any other
+part of the program, if
+the developer can avoid
+it
+3. return values should
+be handled by arguments
+and should be returned
+properly
+
+Then, the effect is immediate:
+when you look at the code, it's
+really neat. And take note,
+I just write unit tests for
+components or functions that
+I feel I really need to focus on.
+
 Integration tests, on the other
 hand, are tests when you are 
 combining several components:
