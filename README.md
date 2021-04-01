@@ -121,7 +121,8 @@ it
 3. return values should
 be handled by arguments
 and should be returned
-properly
+properly (remember, rule
+no. 2)
 
 Then, the effect is immediate:
 when you look at the code, it's
