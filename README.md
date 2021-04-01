@@ -40,7 +40,7 @@ test whether each part of the
 code is working as intended.
 
 Now, this is only practical if your
-project is just small one. But
+project is just a small one. But
 software development nowadays 
 is already a very sophisticated one.
 So, testing that manually will surely
@@ -91,7 +91,7 @@ mainly because these two tests should be done
 (most of the time) by 
 the developer himself.
 
-There are on-going debate as to
+There are on-going debates as to
 what is considered a unit, say,
 it can be a component of a program
 and whether you test first before
@@ -103,7 +103,7 @@ in what they believe is the
 best for them. 
 
 Integration tests, on the other
-hand, are test when you are 
+hand, are tests when you are 
 combining several components:
 will they still work as intended?
 Problems arise when there
@@ -113,7 +113,7 @@ testing is in your mind,
 it will affect the way you
 use global variables and 
 components that are dependent
-to one another.
+on one another.
 
 Other tests just like black box
 testing will be done by another person,
