@@ -102,6 +102,19 @@ to the programmer or the company
 in what they believe is the 
 best for them. 
 
+Integration tests, on the other
+hand, are tests when you are 
+combining several components:
+will they still work as intended?
+Problems arise when there
+is too much dependence in
+a program, so mainly, even just
+testing is in your mind,
+it will affect the way you
+use global variables and 
+components that are dependent
+on one another.
+
 For me, personally, I write
 unit tests and integration 
 tests for my projects, particularly
@@ -136,18 +149,12 @@ I just write unit tests for
 components or functions that
 I feel I really need to focus on.
 
-Integration tests, on the other
-hand, are tests when you are 
-combining several components:
-will they still work as intended?
-Problems arise when there
-is too much dependence in
-a program, so mainly, even just
-testing is in your mind,
-it will affect the way you
-use global variables and 
-components that are dependent
-on one another.
+This only means, a developer
+should not find it difficult to
+write unit and integration tests,
+if he/she finds it difficult,
+the source code is really not
+neat.
 
 Other tests just like black box
 testing will be done by another person,
