@@ -150,7 +150,7 @@ tricky
 
 Then, the effect was immediate
 the very first time I did this:
-when I looked at the code, it's
+when I looked at the code, it was
 really neat. 
 
 So, from that point in time,
