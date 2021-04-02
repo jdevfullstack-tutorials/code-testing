@@ -167,7 +167,7 @@ if he/she finds it difficult,
 the source code is really not
 that neat.
 
-But others will insist, they are
+But others will still insist, they are
 good and excellent coders and very
 careful writing quality code. I
 say I had the same feeling but
