@@ -48,7 +48,7 @@ be a headache. Plus, testing it
 manually is not that efficient.
 And even a well-tested code will not
 always work as intended to be.
-Our role is just to minimize and 
+Our role is just to minimize errors and 
 maintain the code.
 
 ## Debugging Vs Code Testing
