@@ -108,8 +108,8 @@ combining several components:
 will they still work as intended?
 Problems arise when there
 is too much dependence in
-a program, so mainly, even just
-testing is in your mind,
+a program. So mainly, even
+testing is just in your mind,
 it will affect the way you
 use global variables and 
 components that are dependent
