@@ -184,7 +184,12 @@ ourselves.
 
 Other tests just like black box
 testing will be done by another person,
-usually a tester.
+usually a tester. This is another
+layer of testing for quality assurance.
+Don't you know that bugs causes
+million dollars to be just wasted?
+So, a company really needs this kind
+of quality assurance.
 
 ## Useful And Valid Links
 Here are the detailed tutorials for this code testing:
