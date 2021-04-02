@@ -165,7 +165,7 @@ should not find it difficult to
 write unit and integration tests,
 if he/she finds it difficult,
 the source code is really not
-neat.
+that neat.
 
 But others will insist, they are
 good and excellent coders and very
