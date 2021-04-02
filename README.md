@@ -140,11 +140,13 @@ and should be returned
 properly (remember, rule
 no. 2)
 4. global variables should
-be a last resort to be used and 
+be used minimally and 
 should be closely monitored
 5. throwing exceptions
 should be closely monitored
-through testing
+through testing because
+throwing exceptions are actually
+tricky
 
 Then, the effect was immediate
 the very first time I did this:
