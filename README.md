@@ -43,9 +43,9 @@ Now, this is only practical if your
 project is just a small one. But
 software development nowadays 
 is already a very sophisticated one.
-So, testing that manually will surely
-be a headache. Plus, testing it
-manually is not that efficient.
+So, testing it manually will surely
+be a headache. Plus, it
+is not that efficient.
 And even a well-tested code will not
 always work as intended to be.
 Our role is just to minimize errors and 
