@@ -191,6 +191,11 @@ million dollars to be just wasted?
 So, a company really needs this kind
 of quality assurance.
 
+You can check out my actual codes with
+unit and integration tests:
+
+<https://github.com/xdvrx1/java>
+
 ## Useful And Valid Links
 Here are the detailed tutorials for this code testing:
 
