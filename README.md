@@ -121,8 +121,8 @@ tests for my projects.
 
 In my experience, 
 I had developed the projects
-first without knowing code
-testing in the first place. 
+first without any idea about
+code testing. 
 So I wrote them backwards. 
 With that, I refactored
 everything in such a way that:
