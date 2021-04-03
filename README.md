@@ -127,8 +127,8 @@ So I wrote them backwards.
 With that, I refactored
 everything in such a way that:
 
-1. a function will just
-return one value
+1. a function will
+return just one value
 2. components should not
 be dependent on any other
 part of the program, if
