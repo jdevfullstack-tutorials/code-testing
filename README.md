@@ -1,6 +1,6 @@
 # What Is Code Testing
 
-*`updated 21 April 2022`*
+
 
 I was too intimidated by the concept 
 of code testing. Why
