@@ -197,7 +197,7 @@ of quality assurance.
 You can check out my actual codes with
 unit and integration tests:
 
-<https://github.com/xdvrx1/java>
+<https://github.com/jdevstatic/java>
 
 ## Useful And Valid Links
 Here are the detailed tutorials for this code testing:
